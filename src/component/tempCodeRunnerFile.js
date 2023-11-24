@@ -1,0 +1,1 @@
+dV.includes(student[i])
